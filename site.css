@@ -1,0 +1,55 @@
+  body {
+    background:linear-gradient(hsl(183, 78%, 45%) ,hsl(281 ,70% ,31%));
+    margin-inline: 50px;
+  }
+
+  .hi:hover {
+    border-color: green;
+    }
+
+#iloveyou {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 150px;
+    background-image: url(sofiam.png);
+    background-position: center;
+    background-repeat: no-repeat    ;
+    background-size: 200px 200px;
+    margin-left: 550px;
+}
+#jj {
+    width: 700px;
+    height: 800px;
+    margin-left: 300px;
+    border: 10px solid black;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+#sonya {
+    text-align: center;
+     font-size: 60px;
+     font-weight: 700;
+     width: 100px;
+     height: auto;
+     margin-left: 510px;
+}
+#sonya:hover{
+color:hsl(27, 77%, 43%)
+}
+
+#pre {
+
+    margin-right: 200px;
+}
+
+p {
+    font-size: 40px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+
+#red:active ,paused {
+    color: red;
+}
